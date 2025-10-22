@@ -1,0 +1,11 @@
+C:\Users\Надежда\source\repos\27sep\TestingPlatform.Domain\bin\Debug\net8.0\TestingPlatform.Domain.deps.json
+C:\Users\Надежда\source\repos\27sep\TestingPlatform.Domain\bin\Debug\net8.0\TestingPlatform.Domain.dll
+C:\Users\Надежда\source\repos\27sep\TestingPlatform.Domain\bin\Debug\net8.0\TestingPlatform.Domain.pdb
+C:\Users\Надежда\source\repos\27sep\TestingPlatform.Domain\obj\Debug\net8.0\TestingPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Надежда\source\repos\27sep\TestingPlatform.Domain\obj\Debug\net8.0\TestingPlatform.Domain.AssemblyInfoInputs.cache
+C:\Users\Надежда\source\repos\27sep\TestingPlatform.Domain\obj\Debug\net8.0\TestingPlatform.Domain.AssemblyInfo.cs
+C:\Users\Надежда\source\repos\27sep\TestingPlatform.Domain\obj\Debug\net8.0\TestingPlatform.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Надежда\source\repos\27sep\TestingPlatform.Domain\obj\Debug\net8.0\TestingPlatform.Domain.dll
+C:\Users\Надежда\source\repos\27sep\TestingPlatform.Domain\obj\Debug\net8.0\refint\TestingPlatform.Domain.dll
+C:\Users\Надежда\source\repos\27sep\TestingPlatform.Domain\obj\Debug\net8.0\TestingPlatform.Domain.pdb
+C:\Users\Надежда\source\repos\27sep\TestingPlatform.Domain\obj\Debug\net8.0\ref\TestingPlatform.Domain.dll
