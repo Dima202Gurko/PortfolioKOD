@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="15.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="9.0.9" />
+  </ItemGroup>
+  <ItemGroup>
+		<ProjectReference Include="C:\Users\Надежда\source\repos\27sep\TestingPlatform.Domain\TestingPlatform.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+	<ProjectReference Include="C:\Users\Надежда\source\repos\27sep\TestingPlatform.Application\TestingPlatform.Application.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+	<ProjectReference Include="C:\Users\Надежда\source\repos\27sep\27sep\TestingPlatform.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+		<ProjectReference Include="C:\Users\Надежда\source\repos\27sep\27sep\TestingPlatform.csproj" />
+  </ItemGroup>
+
+
+</Project>
