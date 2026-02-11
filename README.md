@@ -95,6 +95,7 @@ API системы полностью документировано с испо
 ## Модель данных
 <img width="1490" height="966" alt="Модель данных" src="https://github.com/user-attachments/assets/7efc52b9-d12a-40c6-a0f6-8b2094d47174" />
 
+---
 
 ## Трудности и выводы
 
